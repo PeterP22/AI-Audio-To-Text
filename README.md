@@ -1,10 +1,22 @@
-# AI speech to text 
+# AI Speech to Text Using OpenAI Whisper
 
-1. install dependencies
+This project utilizes OpenAI's Whisper model to transcribe spoken words into text. It captures audio from your microphone for a set duration, processes it through the Whisper model, and outputs the transcribed text.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+Before you begin, ensure you have the following installed:
+- Python 3.6 or later
+- Pip (Python package manager)
+
+Step 1. Install dependencies
 ```bash
 pip install git+https://github.com/openai/whisper.git
 pip install sounddevice numpy
 ```
 
-3. run the script 
+Step 2. Run the script 
 
