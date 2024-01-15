@@ -20,3 +20,5 @@ pip install sounddevice numpy
 
 Step 2. Run the script 
 
+Step 3. After the duration has passed and you have communicated correctly, check the terminal for the output string based on what you verbally said. 
+
