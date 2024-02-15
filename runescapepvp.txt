@@ -1,0 +1,1215 @@
+Last Man Standing
+Jump to navigationJump to search
+Bandages.png
+This is a safe activity.
+You cannot bring any items in or out of this activity. If you die here, you will not lose any of your items.
+Warning: All PvM activities are dangerous for Hardcore group iron players, including Pest Control, Nightmare Zone, Fight Caves, and Chambers of Xeric.
+Last Man Standing
+Last Man Standing.png
+Also called	LMS
+Released	4 August 2016 (Update)
+Type	Minigame
+Members	No
+Location	Ferox Enclave
+Participants	4-24
+Skills	Combat
+Requirements	None
+Reward currency	Points
+Tutorial	No
+Music	Last Man Standing
+Location
+Last Man Standing logo.png
+Last Man Standing, commonly referred to as LMS, is a player-versus-player battle royale style minigame in which the player, along with 3-23 others, are transported onto an island where they must fight for survival, killing each other and looting any items they can to become the titular last man standing.
+
+Players can begin the minigame by speaking to Lisa, located in Ferox Enclave. Items cannot be brought into the minigame; any items in the player's possession are temporarily taken away for the duration of the game, and are returned upon leaving the game. Alternatively, a bank deposit box near Lisa can be used to deposit all of the player's items.
+
+
+The Last Man Standing lobby in Ferox Enclave.
+Upon speaking to Lisa, players will be given the choice to participate in one of three game modes:
+
+Casual - Players can participate without reward and can begin a game with four players, though their rank on the highscores are not affected.
+Competitive - Only playable on members' worlds, players are rewarded points for playing and their rank on the highscores are affected. There must be 24 participants to begin a competitive game. After a game of competitive, the players rating will get updated and displayed in the chat window.
+High Stakes - Like competitive mode, but players must pay 500,000 coins to enter. This game mode is not always active; it is enabled by the Old School Team at their discretion. High Stakes cannot be played by Ironman accounts.
+Participating in Competitive and High Stakes requires players to have a minimum total level of 750 and 30 Quest points, or a minimum total level of 1,500 if they have less than 30 Quest points.
+
+For Hardcore Group Ironmen, safe deaths can take place in Last Man Standing, Soul Wars, and Castle Wars.[1]
+
+
+Contents
+Official worlds
+Getting there
+Gameplay
+Equipment
+Fog
+Money making
+Rewards
+Casual rewards
+Competitive rewards
+High stakes rewards
+Ranking
+Changes
+Trivia
+References
+Official worlds
+Unlike most minigames, Last Man Standing can only be played on certain worlds. It should be noted that there are no differences in gameplay between free-to-play and members, as the items used within the minigame, which includes various equipment usually exclusive to members, cannot be brought outside. This makes the minigame the only place where free-to-play players can perform special attacks with the weapons provided and use Ancient Magicks.
+
+As with other PvP worlds, Last Man Standing worlds are often rotated to provide fairer lag associated with ping/server latency to players across the world. The current active PvP world rotation is Rotation B.
+
+World	Location	Members	Activity
+326	United Kingdom flag.png United Kingdom	Free-to-play	LMS Casual
+469	United States (east) flag.png United States (east)	Free-to-play	LMS Casual
+580	United States (east) flag.png United States (east)	Members	LMS Competitive
+Getting there
+There are four safe methods of reaching Ferox Enclave that does not require players to traverse the Wilderness:
+
+A ring of dueling will teleport directly here.
+Using the Grouping interface to teleport to the Last Man Standing minigame.
+Using a waka canoe to row here (requires level 57 Woodcutting).
+Via the Soul Wars portal to enter the Ferox Enclave dungeon.
+Gameplay
+
+A map of Desert Island with marked locations
+
+A map of Wild Varrock with marked locations
+At the start of the game, a map is chosen from the map pool at random. Currently there are two island maps available (Desert Island and Wild Varrock), with a 50% chance of either being chosen.
+
+Players can choose their preferred account build via a Settings button on the screen when in the lobby. Players can choose between 3 different account builds: Max/Med, Zerker, and 1 Def Pure.
+
+Build	Attack	Strength	Defence	Magic	Ranged	Hitpoints
+Max/Med	99	99	75	99	99	99
+Zerker	75	99	45	99	99	99
+1 Def Pure	75	99	1	99	99	99
+Upon arrival to the island, an account build is randomly chosen for all players, with a higher chance given to builds preferred by more players in the waiting area. All prayers (excluding Redemption, Smite, Preserve and Retribution and excluding Rigour, Augury, Piety and Chivalry for the zerker and 1 def pure builds) can be used, and the player's spellbook is switched to the Ancient Magicks, even if Desert Treasure I is not completed. In addition, players are given infinite run energy as well as infinite prayer. Once the player arrives, the game will begin in 12 seconds.
+
+Upon killing a player, the player's stats, run energy, special attack and supplies are all replenished. Players will also receive a bloody key (or a bloodier key if there are fewer than six players), which they should use on a chest to receive more powerful equipment. During this time, players are also unattackable for 20 seconds, giving them time to find a chest to loot as well as preparing for the next fight against another player.
+
+Items found within the island have different item IDs than their normal counterparts. If players somehow were able to smuggle them outside the minigame and attempt to use them, they will disappear instantly.
+
+Equipment
+Account build loadouts
+Max/Med	Zerker	1 Def Pure
+Helm of neitiznot.png
+Imbued guthix cape.png
+Amulet of glory.png
+Diamond bolts 5.png
+5000
+Abyssal whip.png
+Black d'hide body.png
+Dragon defender.png
+Rune platelegs.png
+Barrows gloves.png
+Climbing boots.png
+Berserker ring.png
+Mystic robe top.png	Mystic robe bottom.png	Spirit shield.png	Ahrim's staff.png
+Rune crossbow.png	Dragon dagger.png	Saradomin brew(4).png	Super restore(4).png
+Sanfew serum(4).png	Ranging potion(4).png	Super combat potion(4).png	
+Cooked karambwan.png	Cooked karambwan.png
+Shark.png	Shark.png	Shark.png	Shark.png
+Shark.png	Shark.png	Shark.png	Shark.png
+Shark.png	Shark.png	Shark.png	Rune pouch.png
+Berserker helm.png
+Imbued guthix cape.png
+Amulet of glory.png
+Diamond bolts 5.png
+5000
+Ahrim's staff.png
+Mystic robe top.png
+Spirit shield.png
+Mystic robe bottom.png
+Barrows gloves.png
+Climbing boots.png
+Berserker ring.png
+Black d'hide body.png	Abyssal whip.png	Super combat potion(4).png	Super restore(4).png
+Rune platelegs.png	Rune defender.png		Ranging potion(4).png
+Rune crossbow.png	Dragon dagger (Last Man Standing).png		Saradomin brew(4).png
+Cooked karambwan.png	Cooked karambwan.png
+Shark.png	Shark.png	Shark.png	Shark.png
+Shark.png	Shark.png	Shark.png	Shark.png
+Shark.png	Shark.png	Shark.png	Rune pouch.png
+Ghostly hood.png
+Imbued guthix cape.png
+Occult necklace.png
+Diamond bolts 5.png
+5000
+Ancient staff.png
+Ghostly robe (top).png
+Unholy book.png
+Ghostly robe (bottom).png
+Mithril gloves.png
+Climbing boots.png
+Berserker ring.png
+Cooked karambwan.png			Super restore(4).png
+Cooked karambwan.png		Ranging potion(4).png	Super combat potion(4).png
+Shark.png	Saradomin brew(4).png
+Rune crossbow.png	Amulet of glory.png	Shark.png	Shark.png
+Black d'hide chaps.png	Dragon scimitar.png	Shark.png	Shark.png
+Dragon dagger.png	Shark.png	Shark.png	Shark.png
+Shark.png	Shark.png	Shark.png	Rune pouch.png
+
+Players can arrange their inventory and equipment loadout at the supply chest near Lisa.
+Players are given a default preset of items based on the account build chosen that are provided upon arriving, which by includes Super restore, Super combat potion, Saradomin brew, Ranging potion, and, by default, a unique rune pouch that can cast Blood Blitz, Blood Barrage, Ice Blitz and Ice Barrage. The supply chest just west of Lisa allows players to arrange their inventory, equipment loadout, and spellbook to their personal preference. It should be noted that players cannot have more than eleven sharks and two cooked karambwans for their loadout, and cannot be picked up from a slain player's loot if they have that same amount of food. Players can choose between the Standard Spellbook, Ancient Magicks, and Lunar Spellbook in the supply chest, giving access to the Surge spells and Entangle, Ice and Blood Blitz and Barrage spells, and Vengeance and Cure Me respectively. The Lunar Spellbook cannot be activated for Pure builds.
+
+To improve the chance of survival, players must loot chests throughout the island with bloody keys and bloodier keys. Chests opened with bloody keys will roll for an item from two loot tables, one of which contains offensive gear, and the other defensive, while bloodier keys access an upgraded offensive loot table. If an opponent logs out before they are killed, the attacker will still receive a bloody/bloodier key.
+
+
+A loot crate that occasionally spawns in a broadcasted location.
+There will also be loot crates that may spawn throughout the map; the chat box will broadcast its location to all remaining players. These loot crates can roll on the upgraded loot table.[2]
+
+Below are lists of equipment that can be obtained during the minigame for each account build.
+
+Max/Med
+Offensive loot table
+Armadyl crossbow (Last Man Standing).pngArmadyl crossbow and
+Opal dragon bolts (e) 5.pngOpal dragon bolts (e)	Ancient godsword.pngAncient godsword	Armadyl godsword (Last Man Standing).pngArmadyl godsword	Dark bow (Last Man Standing).pngDark bow and
+Dragon arrow (Last Man Standing) 5.pngDragon arrows
+Dragon claws (Last Man Standing).pngDragon claws	Elder maul (Last Man Standing).pngElder maul	Ghrazi rapier (Last Man Standing).pngGhrazi rapier	Granite maul (Last Man Standing).pngGranite maul
+Heavy ballista (Last Man Standing).pngHeavy ballista and
+Dragon javelin (Last Man Standing).pngDragon javelins	Infernal cape (Last Man Standing).pngInfernal cape	Inquisitor's mace.pngInquisitor's mace	Kodai wand (Last Man Standing).pngKodai wand
+Mage's book (Last Man Standing).pngMage's book	Occult necklace (Last Man Standing).pngOccult necklace	Seers ring (i) (Last Man Standing).pngSeers ring (i)	Staff of the dead (Last Man Standing).pngStaff of the dead
+Zaryte crossbow.pngZaryte crossbow and
+Opal dragon bolts (e) 5.pngOpal dragon bolts (e)	Volatile nightmare staff (Last Man Standing).pngVolatile nightmare staff		
+Defensive loot table
+Ahrim's robetop (Last Man Standing).pngAhrim's robetop	Ahrim's robeskirt (Last Man Standing).pngAhrim's robeskirt	Amulet of fury (Last Man Standing).pngAmulet of fury	Ancestral hat (Last Man Standing).pngAncestral hat
+Ancestral robe top.pngAncestral robe top	Ancestral robe bottom.pngAncestral robe bottom	Bandos tassets (Last Man Standing).pngBandos tassets	Blessed spirit shield (Last Man Standing).pngBlessed spirit shield
+Dharok's helm (Last Man Standing).pngDharok's helm,
+Dharok's platebody (Last Man Standing).pngDharok's platebody,
+Dharok's platelegs (Last Man Standing).pngDharok's platelegs, and
+Dharok's greataxe (Last Man Standing).pngDharok's greataxe	Verac's helm (Last Man Standing).pngVerac's helm,
+Verac's brassard.pngVerac's brassard,
+Verac's plateskirt (Last Man Standing).pngVerac's plateskirt, and
+Verac's flail.pngVerac's flail	Eternal boots (Last Man Standing).pngEternal boots	Guthan's helm (Last Man Standing).pngGuthan's helm
+Karil's leathertop (Last Man Standing).pngKaril's leathertop	Mithril seeds (Last Man Standing).pngMithril seeds	Torag's helm (Last Man Standing).pngTorag's helm	Torag's platelegs (Last Man Standing).pngTorag's platelegs
+Verac's helm (Last Man Standing).pngVerac's helm	Verac's plateskirt (Last Man Standing).pngVerac's plateskirt		
+Upgraded offensive loot table
+Morrigan's javelin (Last Man Standing).pngMorrigan's javelin x1,000	Vesta's longsword (Last Man Standing).pngVesta's longsword	Statius's warhammer (Last Man Standing).pngStatius's warhammer	Zuriel's staff (Last Man Standing).pngZuriel's staff
+Voidwaker (Last Man Standing).pngVoidwaker	Lightbearer (Last Man Standing).pngLightbearer		
+Zerker
+Offensive loot table
+Armadyl godsword (Last Man Standing).pngArmadyl godsword	Armadyl crossbow (Last Man Standing).pngArmadyl crossbow	Dark bow (Last Man Standing).pngDark bow and
+Dragon arrow (Last Man Standing) 5.pngDragon arrows	Dragon claws (Last Man Standing).pngDragon claws
+Elder maul (Last Man Standing).pngElder maul	Granite maul (Last Man Standing).pngGranite maul	Heavy ballista (Last Man Standing).pngHeavy ballista and
+Dragon javelin (Last Man Standing).pngDragon javelins	Infernal cape (Last Man Standing).pngInfernal cape
+Kodai wand (Last Man Standing).pngKodai wand	Mage's book (Last Man Standing).pngMage's book	Occult necklace (Last Man Standing).pngOccult necklace	Seers ring (i) (Last Man Standing).pngSeers ring (i)
+Staff of the dead (Last Man Standing).pngStaff of the dead	Volatile nightmare staff (Last Man Standing).pngVolatile nightmare staff		
+Defensive loot table
+3rd age range top.png3rd age range top	3rd age range legs.png3rd age range legs	3rd age range coif.png3rd age range coif	3rd age robe top.png3rd age robe top
+3rd age robe.png3rd age robe	3rd age mage hat.png3rd age mage hat	Amulet of fury (Last Man Standing).pngAmulet of fury	Amulet of torture.pngAmulet of torture
+Fremennik kilt.pngFremennik kilt	Infinity boots.pngInfinity boots	Inquisitor's great helm.pngInquisitor's great helm	Inquisitor's hauberk.pngInquisitor's hauberk
+Inquisitor's plateskirt.pngInquisitor's plateskirt	Mithril seeds (Last Man Standing).pngMithril seeds	Necklace of anguish.pngNecklace of anguish	Tormented bracelet.pngTormented bracelet
+Upgraded offensive loot table
+Morrigan's javelin (Last Man Standing).pngMorrigan's javelin x1,000	Vesta's longsword (Last Man Standing).pngVesta's longsword	Zuriel's staff (Last Man Standing).pngZuriel's staff	Lightbearer (Last Man Standing).pngLightbearer
+Voidwaker (Last Man Standing).pngVoidwaker			
+1 Def Pure
+Offensive loot table
+Armadyl godsword (Last Man Standing).pngArmadyl godsword	Armadyl crossbow (Last Man Standing).pngArmadyl crossbow	Dark bow (Last Man Standing).pngDark bow and
+Dragon arrow (Last Man Standing) 5.pngDragon arrows	Dragon claws (Last Man Standing).pngDragon claws
+Dragon knife.pngDragon knives x1,000	Elder maul (Last Man Standing).pngElder maul	Granite maul (Last Man Standing).pngGranite maul	Light ballista (Last Man Standing).pngLight ballista and
+Dragon javelin (Last Man Standing).pngDragon javelins
+Infernal cape (Last Man Standing).pngInfernal cape	Kodai wand (Last Man Standing).pngKodai wand	Mage's book (Last Man Standing).pngMage's book	Occult necklace (Last Man Standing).pngOccult necklace
+Seers ring (i) (Last Man Standing).pngSeers ring (i)	Staff of the dead (Last Man Standing).pngStaff of the dead	Volatile nightmare staff (Last Man Standing).pngVolatile nightmare staff	
+Defensive loot table
+Amulet of torture.pngAmulet of torture	Ancient chaps.pngBlessed dragonhide chaps	Elder chaos hood.pngElder chaos hood,
+Elder chaos top.pngElder chaos top, and
+Elder chaos robe.pngElder chaos robe	Fremennik kilt.pngFremennik kilt
+Halo	Necklace of anguish.pngNecklace of anguish	Rangers' tunic.pngRangers' tunic	Spiked manacles.pngSpiked manacles
+Tormented bracelet.pngTormented bracelet	Wizard boots.pngWizard boots		
+Upgraded offensive loot table
+Morrigan's javelin (Last Man Standing).pngMorrigan's javelin x1,000	Vesta's longsword (Last Man Standing).pngVesta's longsword	Zuriel's staff (Last Man Standing).pngZuriel's staff	Lightbearer (Last Man Standing).pngLightbearer
+Voidwaker (Last Man Standing).pngVoidwaker	Dragon knife.pngDragon knives x1,000		
+Fog
+
+The fog begins to settle in, damaging any player in its vicinity.
+After a minute, the game will broadcast that lethal fog will soon fill the island, and the safe zone that players must travel to, in order to avoid damage from the fog, which will be indicated by fog markers (appearing as glowing orbs) and a yellow arrow.
+
+Players who aren't in the safe zone after 9 minutes and 10 seconds will take rapid damage, beginning at approximately 1 damage per tick, but steadily increasing to 10 damage per tick.
+
+Money making
+The following money making guide is available for Last Man Standing:
+
+Method	Hourly profit	Skills
+Last Man Standing	785,750	Skills 750+ Total level and Quest points 30+ Quest points
+or Skills 1,500+ Total level
+Rewards
+Casual rewards
+Playing a casual game yields no rewards.
+
+Competitive rewards
+In competitive games, players are given a certain amount of points based on their performance in a game:[3]
+
+1st place - 5 points
+2nd place - 4 points
+3rd/4th place - 3 points
+5th-9th place - 2 points
+10th-19th place - 1 point
+Bonus Points (do not stack with each other):
+3 kills - 1 point
+5 kills - 2 points
+Note: Players must kill at least one player before being awarded any points.
+
+These points can be exchanged for reward items at Justine's reward shop, Justine's stuff for the Last Shopper Standing. Each point is worth up to 38,540.00 for members or 38,540.00 for free-to-play.
+
+High stakes rewards
+For high stakes games, the sole survivor of the match will win 7,500,000 coins and the runner-up is awarded 2,500,000 coins, which is put into a chest near Justine where it may be claimed anytime by the player. For players in third to fifth place, they will have their next high stakes game free of charge.
+
+Since a minimum of 24 players are needed to enter the game, 12,000,000 coins are put into the match. 10,000,000 of that are redistributed to the last two players and three players get free access to their next game, removing 1,500,000 coins that are put into a single match, meaning that Last Man Standing acts as a money sink with a minimum of 500,000 coins leaving the game per high stakes match.
+
+Ranking
+Players have a rank that starts at 500, and can decrease, increase, or stay the same depending on their performance each game.
+
+Ranks
+Title	Range
+Novice	0–599
+Veteran	600–749
+Master	750–999
+Legend	1000+
+Changes
+Date	Changes
+15 November 2023
+(update)	
+The combat option on other players is now always left-click, regardless of the player's settings or combat level outside the minigame.
+
+25 October 2023
+(update)	
+An active Spellbook Swap is now cancelled at the beginning of Last Man Standing.
+
+5 April 2023
+(update)	
+A bug was fixed where the Occult Necklace was not being dropped upon death for the Max/Med and Zerker modes in Last Man Standing.
+
+29 March 2023
+(update)	
+The Volatile nightmare staff was moved to the basic tier of reward chest and the Lightbearer and Voidwaker were added to the superior tier.
+
+22 February 2023
+(update)	
+Binding spell effects are now wiped more reliably at the end of a Last Man Standing session.
+
+24 August 2022
+(update)	
+Protection prayers will once again reduce damage to 60% rather than 30% of the original value.
+The tome of fire is now accessible so that players can access the buff for the Standard Spellbook.
+The stats of the black dragonhide body in Last Man Standing now match its stats in the main game.
+The bow of Faerdhinen has been removed from loot crates and chests.
+Pures are now unable to use Lunar Spells, as players with level 1 Defence cannot normally access them.
+Restricted the use of Prayers that require a Defence level higher than the account build should permit.
+Rune gloves have been changed to mithril ones for Pure builds.
+Visible Special Attack bars have been added to the zaryte crossbow, dragon knives, and light ballista.
+10 August 2022
+(update)	
+2 new account build have been added to the minigame: Zerker and 1 Def pure.
+The warmup countdown duration at the beginning of the game has been increased from 7 to 12 seconds.
+Yellow notifications on the heads-up display should no longer overlap with the buff bar on official clients.
+The buff bar will also no longer show the minigame's ammo after players have left the battle arena.
+Drop item warnings and valuable loot notifications are now suppressed inside the minigame.
+As an experiment, protection prayers are now more effective. Damage is now reduced to 30%, up from 60%.
+The starting positions for players in the Wild Varrock map has been updated. The map now uses pairs of spawn points rather than clumps of six, making it more like the spawns on the Desert Island map.
+Loot crates are now more likely to spawn closer to the final safe zone in the Wild Varrock map.
+Loot chests and crates will now check what items you already have when deciding what to give you.
+22 June 2022
+(update)	
+The Minimap's HP orb now shows players' health as a proportion of 99, as that is the base HP level used in the minigame.
+
+26 January 2022
+(update)	
+Players with a total level of at least 1,500 may now participate in Competitive and High Stakes modes, even if they lack 30 Quest points.
+
+19 January 2022
+(update)	
+To combat botting, participating in Competitive and High Stakes modes now requires players to have at least a total level of 750 and 30 Quest points.
+
+17 November 2021
+(update)	
+A bug where poison effects were cleared upon passing the barrier for entering the minigame have been fixed.
+
+13 October 2021
+(update)	
+The fake XP drops in Last Man Standing now show normal XP quantities for Group Iron players, even though Group Iron players usually get reduced XP for PvP.
+
+22 September 2021
+(update)	
+Last Man Standing now grants kill credit more reliably for players standing on the outskirts of the Dark Varrock map.
+
+3 June 2021
+(update)	
+Purchasing rewards from the Last Man Standing store now requires 48 hours of playtime as a member.
+
+5 May 2021
+(update)	
+In Last Man Standing, ancient spells are no longer greyed out for players who have not completed Desert Treasure I.
+The spawn locations for the Wild Varrock Last Man Standing map have been spread out.
+17 February 2021
+(update)	
+Added a second map to the map pool, Wild Varrock.
+Free-to-play worlds will no longer have the option to play Competitive LMS.
+The default Last Man Standing map has been renamed "Deserted Island".
+The High Stakes Reward Chest was inadvertently left out when the minigame moved to Ferox Enclave. The chest has now been added for you to claim your GP winnings.
+Numerous textual fixes for Deserted Island.
+Added a new loot crate model and animation.
+Loot chests will no longer visually open unless you have a key, but their functionality remains the same.
+Added a three-strikes system to reduce abusive behaviour.
+13 January 2021
+(update)	
+Players with no display name are now barred from Last Man Standing until they set one.
+
+14 October 2020
+(update)	
+The win counter now goes up to 32,767.
+
+12 August 2020
+(update)	
+The 'damaged by fog' hitsplats in Last Man Standing now show the correct healthbar.
+
+6 August 2020
+(update)	
+If a player logs out mid-combat, their opponent will be awarded the kill and all related benefits
+Players must now kill at least one player before being awarded any points.
+Each point will now be worth an average of 15,000 to 20,000 GP when exchanged for items in Justine's shop.
+A typo has been fixed in Last Man Standing.
+16 July 2020
+(update)	
+The minigame has been moved from the Giants' Plateau to Ferox Enclave.
+
+2 April 2020
+(update)	
+You will no longer be stuck with the wrong spellbook if you leave the Last Man Standing waiting enclosure before the battle starts.
+
+19 March 2020
+(update)	
+Competitive Mode entry fee has been removed.
+Players who show no signs of valid progression during a game will become attackable by other players while in combat with another player.
+Bloody and bloodier keys now have a chance to give mithril seeds.
+13 February 2020
+(update)	
+Competitive Mode entry fee has been changed back to 10,000 coins.
+High Stakes entry fee has been increased from 100,000 coins to 500,000 coins.
+Ironman accounts can no longer participate in High Stakes.
+27 January 2020
+(update)	
+High Stakes entry fee has been increased from 50,000 to 100,000 coins.
+
+26 September 2019
+(update)	
+Wild dogs no longer spawn in the minigame.
+
+19 September 2019
+(update | poll)	
+The Wilderness crabs teleport has been added to the rewards shop.
+
+12 September 2019
+(update)	
+Crates of loot now spawn in LMS on F2P worlds as they do on members' worlds.
+The US Last Man Standing world has been moved from world 492 to 469 so that non-members can use it.
+5 September 2019
+(update)	
+The smoke puff animation now has a matching sound when loot crates are opened.
+The messages at the end of a game have been reordered.
+The LMS reward shop menu's click-zones have been expanded to include the pictures as well as the text.
+The description on the LMS coffer has been corrected.
+NPCs in LMS can now be targeted by members-only Ancient spells on F2P.
+Players may no longer go up vertical ladders in LMS if they have recently been in combat; this restriction previously applied at some points during a game, but now applies throughout it. The restriction does not stop players climbing down the LMS ladders and does not apply to the diagonal ladders of watchtowers either, since the upper level of those is visible from the ground.
+XP drops no longer overlap with the HUD.
+The number of LMS-enabled worlds has been adjusted.
+2 September 2019
+HOTFIX
+Free-to-play competitive games now require a total level of 150 to participate, unless the player is a member.[4]
+
+29 August 2019
+HOTFIX
+Boosted stats can no longer be taken outside of the minigame.[5]
+
+29 August 2019
+(update | poll)	
+Players are now given a default preset of items that are provided upon arriving rather than just a spear.
+Defence levels for the duration of the game have been increased from 70 to 75.
+Prayer points are now unlimited instead of being drained to 10 at the start.
+Run energy is now unlimited.
+A map of the island has been added to the world map.
+Players' stats, run energy, special attack energy and supplies are now all replenished upon killing an opponent.
+Vending shrines and the items obtained from it have been removed.
+The loot table has been split into offensive and defensive tables, with bloodier keys giving an upgraded loot table containing Ancient Warriors' weapons.
+Points are now awarded for competitive games, used as the currency for the reward shop.
+13 June 2019
+(update)	
+Lisa now waits 60 seconds instead of 30 before a game begins in order for other players to join in more easily.
+
+6 June 2019
+(update | poll)	
+Casual games of Last Man Standing now begin after 30 seconds of a minimum number of 4 players being in the lobby, making games between friends easier to start. If the lobby reaches 24 players, the game begins immediately.
+Competitive and high stakes games of Last Man Standing now begin with 24 players, reduced from 48.
+8 September 2016
+(update)	
+Players will now receive a bloody key if their opponent logs out.
+Lisa will now call out the number of players needed to start a competitive game.
+The spawn locations for loot crates have now been randomised.
+The number of players required to start a game has been reduced from 60 to 48.
+Prayer potions have been increased in price and rune packs have been lowered in price.
+The stepping stones to the island have been replaced by a path.
+Trivia
+
+A piece of artwork of the minigame.
+The rework of the minigame on 29 August 2019 was initially developed on Mod Roq's personal time, and was preceded by two betas to test the new changes.
+
+Wilderness
+Jump to navigationJump to search
+Wilderness
+Wilderness.png
+Released	13 August 2001 (Update)
+Also called	Wildy, Wild, Forinthry
+Members	No
+Capital	N/A (previously Senntisten)
+Inhabitants	Humans
+Map
+The Wilderness.png
+The Wilderness, also known as the Wild or Wildy, is a large and dangerous wasteland that makes up nearly the entirety of north-eastern Gielinor directly north of the kingdoms of Asgarnia and Misthalin.
+
+The entirety of the Wilderness, excluding Ferox Enclave, is a PvP area. Two players or multiple players (within multi-combat zone) may fight if their combat levels are within a certain range of each other, increasing the deeper into the Wilderness they go. This, along with very high level monsters and bosses, makes the Wilderness one of the most dangerous places in the game.
+
+The Wilderness Diary is a set of achievement diaries relating to the Wilderness and its surrounding area, released on 5 March 2015.
+
+
+Contents
+In-game history
+Unique mechanics
+Wilderness levels
+Death mechanics
+Teleport restrictions
+Member teleportation up to level 30 Wilderness
+Dropping items
+Item behaviour
+UI changes
+Player killing
+Official worlds
+Combat types
+Bounty Hunter
+Looting
+Notable locations
+Transportation methods
+Spells
+Items
+Obelisks
+Other
+Teleports close to the ditch
+Bosses
+Skill training
+Resource Area
+Prayer
+Runecraft
+Abyss
+Chaos Altar
+Mining
+Fishing
+Hunter
+Woodcutting
+Thieving
+Agility
+Slayer
+Quests and Miniquests
+Family Crest
+Enter the abyss & Devious minds
+Curse of the Empty Lord
+Mage Arena
+Mage Arena II
+Other features
+Ferox Enclave
+Wilderness Diary
+Team capes
+Shop selling
+Clue scrolls
+Development history
+Changes
+See also
+In-game history
+The area that is now the Wilderness was formerly known as Forinthry. It was a lush and green land by the time Gielinor was discovered by Guthix.
+
+Forinthry was very rich in resources, and so a perfect place to build settlements. Zaros, a god who entered Gielinor after Guthix entered his sleeping state at the end of the First Age, fully conquered this area during the Second Age. Many settlements were built, whose most powerful were Dareeyak, Carrallanger, Annakarl, and Ghorrock. Forinthry formed a very big part of Zaros' mighty empire, which was the most powerful of Gielinor at that time, and stretched from northern Forinthry, through Asgarnia and Misthalin, to the north-east of Morytania.
+
+Near the end of the second age, Zaros' Mahjarrat general Zamorak wanted to overthrow Zaros and was able to collect a group of followers. Those included (but were not limited to) the Elder Demon Thammaron, the vampyre Lord Drakan, the human warrior Viggora, and the Mahjarrat Zemouregal and Hazeel. When Zamorak got his hands on the Staff of Armadyl, he attacked Zaros' palace and after an intense battle, a large part of Zaros' powers were transferred via the staff to Zamorak, leading to his banishment. After that Zamorak supposedly disappeared. Years later he returned to Gielinor with an army so big that he could conquer the world and declared war against all the other gods, starting the God Wars.
+
+During the God Wars, Forinthry was under constant attack from the armies of Zamorak and Saradomin and soon started to crumble, the fortresses were dominated and many of Zaros' remaining followers sided with Zamorak to not be his victims, and soon, the remaining settlements of Forinthry were destroyed with the exception of Ghorrock.
+
+In the last years of the war Saradomin forged a temporary and fragile alliance with Armadyl and Bandos to defeat Zamorak, and in a following battle Zamorak brought destruction on the entire land by causing a massive explosion that swept across the continent turning it into the cursed wasteland today known as the Wilderness. The massive destruction caused Guthix to awake from his long slumber. Once awoken Guthix led his army to the scarred land of Forinthry to end the war, which led him to establish the Edicts of Guthix, which banned all gods from ever directly influencing Gielinor again. Guthix went deep into the depths of Gielinor and wept, saddened by the effects the God Wars had wrought on the world that he had shaped and loved. The Wars ended, but the damage was done; many races like the aviantese, icyene, ourgs, and wyrms were almost wiped out of existence, and all of Gielinor suffered from the effects of the wars, but not one kingdom suffered as heavily as Forinthry.
+
+Forinthry is today known as the Wilderness and is now nothing but a cursed wasteland feared by adventurers. Today, many ruins of the once mighty cities still remain in these lands, barely recognisable as the great cities they were but rather piles of bricks and spirits of the creatures who died during the God Wars who were forced to look after the Wilderness. They started wandering the Wilderness, attacking anything alive they would encounter, these spirits became known as the revenants.
+
+During the Fourth Age, there were many attempts to recolonise the Wilderness, none known to be particularly successful. There are still many creatures wandering around in the Wilderness, like many species of giants and demons. Due to the Wilderness being a site of ancient battles, it is also a place where dragons reside. Some outlaws, mostly Zamorakians, have also managed to set up their bases there, like bandits, dark warriors, rogues, and pirates.
+
+Unique mechanics
+Various gameplay mechanics that are present in the game may work differently when within the Wilderness, such as item behaviour, item-dropping behaviour, etc.
+
+Wilderness levels
+The Wilderness contains different levels, starting at level 1 at the Wilderness ditch, and increasing to level 56 in the far north. These levels are only indicated by a small screen overlay; there is no physical separation between levels.
+
+Players within combat level range of each other can attack each other in the Wilderness. This range is calculated by taking the combat level and adding or subtracting the current Wilderness level.
+
+For example, in level 1 Wilderness, a player who is level 100 can attack players who are level 99, level 101 or the same level. If a player is level 100 in level 24 Wilderness, they can attack players between level 76 and level 124 combat.
+
+The first two steps (squares\tiles) of the Wilderness are "safe" zones, in which players can not attack or be attacked, thus making the Wilderness ditch not a strict reminder of where the Wilderness starts. Both players (or the player and monsters) must be outside the safe zone before any PVP or Wilderness slayer tasks can take effect.
+
+In PvP worlds, anywhere outside of a safe zone (except for the Wilderness itself) is level 15 Wilderness. Inside the Wilderness, this is further increased by the regular Wilderness level.
+
+Death mechanics
+Upon dying in the Wilderness of any cause, the player will keep up to three (3) items upon respawning.
+
+Skull (status) icon.png
+If the player obtains a skull (either by attacking other player(s), entering the Abyss or requesting one NPCs like the Emblem Trader), they will lose all items on death. If the player is attacked by another player(s), they can fight them back without obtaining a skull.
+
+The Protect Item prayer allows the player to keep one more item than usual if activated, meaning up to four (4) items are kept normally, but only one (1) is kept if skulled. Protect Item can NOT be activated on a high-risk world.
+
+If the player dies to other players, all tradeable items will only be visible to the player who dealt the most damage, lasting for one minute before becoming visible to other players. If the player dies to a monster, they are visible only to the victim for a minute. After this, all other players can see the dropped items for 59 minutes.
+
+Upon death, certain untradeable items (such as void armour, fire capes or fighter torso) will be converted into coins above level 20 Wilderness, and players must obtain the item again from its original source. Below level 20 Wilderness, any items deemed useful in combat turn into broken items instead, which can be repaired back into their original state with coins at Perdu. Other untradeable items, such as graceful clothing, will remain on the ground for an hour.
+
+Teleport restrictions
+Teleports will not work above level 20 Wilderness, except for those methods listed below, which may be used by members up to level 30 Wilderness. However, the Teleport Block spell will prevent using nearly any means of teleportation for five minutes, or two and a half minutes if it is successfully cast on a player with Protect from Magic active. Also, you cannot teleport after using your special attacks on another player for a short duration. The chronicle does not work in the Wilderness.
+
+Member teleportation up to level 30 Wilderness
+Amulet of glory(4).pngAmulet of glory
+Amulet of eternal glory.pngAmulet of eternal glory
+Combat bracelet(4).pngCombat bracelet
+Skills necklace(4).pngSkills necklace
+Ring of wealth.pngRing of wealth
+Pharaoh's sceptre (uncharged).pngPharaoh's sceptre
+Grand seed pod.pngGrand seed pod
+Royal seed pod.pngRoyal seed pod
+Slayer ring.pngSlayer ring
+Ring of life.pngRing of life
+Escape crystal.pngEscape crystal
+Defence cape.pngDefence cape (acting as a ring of life when below 10% hitpoints)
+Max cape.pngMax cape (acting as a ring of life when below 10% hitpoints)
+Dropping items
+Except for cooked food and potions, all dropped items become visible to other players immediately. This is to discourage players from dropping their items before dying and quickly making it back to pick them up. Cooked foods and potions never appear to other players, which is to prevent clans and teams from dropping supplies for each other during a fight.
+
+Black chinchompas cannot be released in combat. This was changed to prevent chinchompa hunters releasing them to leave nothing for the player killer out of spite.
+
+Item behaviour
+Saw.png
+This article is currently in the middle of a major update or expansion.
+Some sections might not be fully accurate or complete. You can help by contributing small edits to the page, to avoid conflicting with the work of other editors.
+The damage reduction properties of Dinh's bulwark and the set effect of justiciar armour do not work. However, the passive effect of the elysian spirit shield does work.
+Anglerfish and blighted anglerfish do not provide an overheal when eaten if you are in combat with another player or a non-player character.
+The toxic blowpipe will have a base speed of 4 instead of 3, but only when fighting other players.
+Powered staves cannot be used against other players, except Thammaron's sceptre and the accursed sceptre.
+The serpentine helm will not venom players when used with a poisoned weapon.
+Barrows equipment is protected upon a PvP death based off the broken version's value, not the value of the working version. See Items Kept on Death for more information.
+UI changes
+Saw.png
+This article is currently in the middle of a major update or expansion.
+Some sections might not be fully accurate or complete. You can help by contributing small edits to the page, to avoid conflicting with the work of other editors.
+Spell icons will not grow in size to reduce empty space in the spellbook while filters are enabled. This does not apply to the mobile client.
+The autocast setting does not remember your selected spell if you change weapons, even if you have the required runes in your inventory.
+
+Player killing
+Main article: Player killing
+Skull (status) icon.png
+Since players can engage in combat within the Wilderness, player killing - or "PKing" - is a common activity. When a player is killed within the Wilderness, all of their lost tradeable items will be dropped for the opponent that has dealt the most damage, and some of the lost untradeable items will be dropped as coins. Note that this a dangerous activity.
+
+
+A clan of players killing an opponent.
+In multicombat areas, multiple players are able to attack the same target simultaneously. This allows players to form clans and engage in player-versus-player combat together, increasing the chances of successful knockouts. In single-way combat areas, there is an extended PJ timer: a combat-interruption prevention and temporary trade restriction mechanic that somewhat lessens teams' abilities to dominate individual players. However, to avoid getting attacked while looting in the dangerous areas, players are advised to unlock and turn on the loot keys.
+
+Many players create specialized accounts for player-versus-player combat called combat pures. The goal of these accounts is to gain advantage over other players within their respective combat level brackets. Combat pures will often minimize or neglect defensive combat skills in order to maximise the damage output. See the combat pure and free-to-play combat pure guides for more details.
+
+Official worlds
+The following official worlds are assigned to Wilderness PKing:
+
+World	Location	Members	Activity
+308	United Kingdom flag.png United Kingdom	Free-to-play	Wilderness PK - Free
+316	United Kingdom flag.png United Kingdom	Free-to-play	Wilderness PK - Free
+369	United States (east) flag.png United States (east)	Members	Wilderness PK - Members
+Combat types
+See also: Free-to-play PvP culture#Combat types
+Player-versus-player combat activities can be divided into the following types:
+
+1-vs-1 combat: arranged duels between willing players in single combat, usually within low-to-mid levels of the Wilderness north of Edgeville or around the Ferox Enclave. Players participating in this form of combat adhere to some unofficial rules that make the fights more dynamic and fair. These will vary between free-to-play and members worlds, but in general players tend not to use protection prayers, are expected to risk similar wealth in either items or cash, safing (healing too much in combat) and player jacking (interrupting fights) are frowned upon, and players are free to run or teleport when out of supplies.
+Risk fighting: a form of 1-vs-1 combat where players bring expensive items or coins to increase the carried risk; a players' experience and abilities in combat greatly affect the outcome.
+Deathmatches: a form of 1-vs-1 combat where players agree to fight to the death, even if they run out of supplies.
+Singles-plus: functions similarly to single-way (1-vs-1) combat but in singles-plus players attacking other players will take priority over a monster or boss.
+Multicombat: fights between groups of players within multicombat areas where any prayers, spells and items can be used to gain advantage in combat. None of the unofficial rules of arranged 1-vs-1 combat apply here. These fights are more common within the deeper Wilderness between individual players and small teams, as well as clans.
+No honour combat: a type of combat where using any means necessary to kill the opponent is allowed. This usually includes techniques that are frowned upon and rarely utilised in typical arranged 1-vs-1 combat, breaking its unofficial set of rules. Examples of these include using freezing spells, protection prayers, safespotting and all combat styles (tribridding). No honour (or nh) fights can occur in the deep Wilderness, as well as in arranged locations such as Edgeville in the PvP worlds. In a wider context, no honour can also be used to describe behaviours that are disapproved of among the PvP community, such as flaming, ragging or cheating. Unfair clan-related behaviours also fall under this category, examples of which include regrouping with a team when the fight was already over, or taking a fake ending picture at the end of a fight.
+Hunting: some player killers target unwilling skillers or PvMers to kill them for loot. As in no honour combat, these players will use any technique they can to score the kill. For example, usage of Tele Block and binding or freezing spells is common. This type of combat is common around locations that provide high experience rates or high profit.
+Clan wars: arranged wars between clans, usually much larger in scale than regular multicombat fights.
+Bounty Hunter
+Main article: Bounty Hunter
+Bounty Hunter was a player killing-based minigame that could only be played on the Bounty Hunter world 318. Players were assigned a target to kill to earn and points, which used to be cashed in for rewards at the Bounty Hunter Shop. Players were matched based on their combat levels.
+
+Looting
+Players, especially those with low level accounts, can cross player killing hotspots with relatively few player killers being able to attack them. This allows them to pick up items dropped by other players, especially leftover food and ammunition. Looters pick up the remains of a drop after the killer finished taking the most expensive items. Some looters even tailgate player-killing clans, which can be especially profitable during wars. Looters are most common around the 1-vs-1 combat hotspots and the locations of arranged clan wars.
+
+Even though this is a relatively profitable activity for the looters, their presence may inconvenience players participating in player-versus-player battles by making them accidentally click to attack them. It is recommended that players turn off their left-click attack options after a successful kill to avoid attacking the looters.
+
+Notable locations
+
+A detailed map of the Wilderness, with levels, notable locations, and typical NPC spawns.
+Place	Wilderness Level	On the Map	Other Information
+Northern Edgeville Dungeon	1 - 5	Underground, with exit to Obelisk of Air in level 5 Wilderness	Monsters include Black demons, Earth warriors, and Chaos druids. The Obelisk of Earth and exit to the Obelisk of Air are located here.
+South Wilderness mine	6 - 7	North of the Edgeville bank, near the tip of the River Lum	Contains coal and iron rocks. The Mage of Zamorak provides teleport access to the Abyss.
+South-west Wilderness mine	9	South of the Dark Warriors' Fortress	Contains 34 coal rocks.
+Chaos Temple	13	South-east of the Graveyard of Shadows, marked by the altar icon	This is one of only three altars in the Wilderness. Elder Chaos druids inhabit the area.
+Dark Warriors' Fortress	13 - 16	South of the Bandit Camp	Spawns all runes chaos and lower.
+Ferox Enclave	13 - 16	South of the Graveyard of Shadows	A safe haven surrounded by barriers in which players cannot attack each other.
+Revenant Caves	17 - 40	Three entrances - one east of the Dark Warriors' Fortress (low level), one north of the Bandit Camp (mid level) and one south-east of the Lava Maze (high level)	Home to Revenants. Requires a 100,000 coin entrance fee, which needs to be repaid if the player dies inside.
+Wilderness Slayer Cave	17- 31
+(multicombat)	Two entrances - one east of the Dark Warriors' Fortress (low level), one south-west of the Silk Chasm (high level)	Home to various monsters assigned by Krystilia, who have slightly improved drop tables over their standard variants.
+Wilderness God Wars Dungeon	23 - 29
+(multicombat)	East of The Forgotten Cemetery	Monsters drop ecumenical keys, and aviansies drop noted adamantite bars.
+Bone Yard	27 - 30	North of the Chaos Temple and east of the Ruins	Bones and Big bones spawn here, making it a popular Prayer training location.
+Bandit Camp mine	29 - 35	East of the Forgotten Cemetery	Contains 16 iron rocks, 31 coal rocks, 19 mithril rocks, 8 adamantite rocks. Most rocks of any free-to-play mining site.
+Lava Dragon Isle	36 - 42	West of the Demonic Ruins, east of the Lava Maze	The only location of Lava dragons. Two white berries spawn here.
+Chaos Temple (hut)	38	The small building just south of the Frozen Waste Plateau	Altar allows for Prayer training. A hotspot for PKers recharging their prayer or killing players training here.
+Lava Maze	40 - 45	South of the Mage Arena, west of Lava Dragon Isle	Many item spawns (gold necklace, steel platebody and staff of earth), and the Muddy chest can be looted. Has a single lava eel fishing spot. The dungeon contains Greater demons, Black dragons, and a runite rock.
+Frozen Waste Plateau	43 - 56	North-western most part of the Wilderness, north of the Chaos Temple (hut)	Spawns law(m), water and cosmic runes, and features three runite rocks(m).
+Demonic Ruins	45 - 48
+(multicombat)	North-east corner, south of the Rogues' Castle	Prayer points are slowly recharged while within range. The only F2P location with Greater demons. Also features a blood rune and several burnt bones spawns.
+Lava Maze runite mine	46	North of the Lava Maze	The only free-to-play vein of runite ore. Player-killing hotspot.
+Fountain of Rune	47 - 48
+(multicombat)	North-east corner, south of the Wilderness Volcano	Players can cast spells without runes here, though no experience is given. Dragonstone jewellery can gain extra charges from the fountain.
+Rogues' Castle	51	East of the Mage Arena and Deserted Keep	Contains rogues, which can be pickpocketed, and chests, which can be looted.
+Resource Area	51 - 53	East of the Deserted Keep, west of the Scorpion Pit	Contains Mining, Fishing and Woodcutting resources. One of the few fishing spots to contain dark crabs. Two Runite Golems are here.
+Wilderness Volcano	53 - 56	North-east of the Rogues' Castle	Odium wards and malediction wards are forged here. Dark crab fishing spots are nearby.
+Transportation methods
+Note: Some methods in this section may allow the player to immediately teleport into deep sections of the Wilderness. However, nothing except members' Deserted Keep, KBD and Mage Arena levers allow directly leaving the Wilderness above level 30, and pk-ers may tele-block the player below level 30. Always come prepared, as easy escape may not be readily available in an emergency.
+
+Spells
+Icon	Spell	Magic
+level	Spellbook	Location	Wilderness
+level
+Minigame icon.png	Minigame Teleport	-	Minigame Teleport	Clan Wars / Last Man Standing (Ferox Enclave)	13-16
+Dareeyak Teleport.png	Dareeyak Teleport	78	Ancient	Western Ruins	23
+Carrallanger Teleport.png	Carrallanger Teleport	84	Graveyard of Shadows	19
+Annakarl Teleport.png	Annakarl Teleport	90	Demonic Ruins	47
+Ghorrock Teleport.png	Ghorrock Teleport	96	Frozen Waste Plateau	45
+Ice Plateau Teleport.png	Ice Plateau Teleport	89	Lunar	53
+Tele Group Ice Plateau.png	Tele Group Ice Plateau	90
+Cemetery Teleport.png	Cemetery Teleport	71	Arceuus	The Forgotten Cemetery	31
+Items
+Burning amulet.pngBurning amulet - has teleports to various locations around the Wilderness
+Games necklace.pngGames necklace - teleports players to Corporeal Beast Cave, where exiting the cave places players in the Wilderness
+Ring of dueling.pngRing of dueling - teleports player to the Ferox Enclave
+Hunter cape.pngHunter cape - offers five daily teleports to the black chinchompa Hunter area
+Revenant cave teleport.pngRevenant cave teleport - teleports the player to the Revenant Caves entrance at level 40 Wilderness
+Wilderness sword 3.pngWilderness sword 3 - offers one daily teleport to the Fountain of Rune
+Wilderness sword 4.pngWilderness sword 4 - offers unlimited teleports to the Fountain of Rune
+Wilderness crabs teleport.pngWilderness crabs teleport - teleports the player to the dark crab fishing spots in level 33 Wilderness
+Obelisks
+
+A Wilderness Obelisk
+Main article: Wilderness Obelisk
+There are several obelisks scattered throughout the whole Wilderness that players can use to randomly teleport to particular locations within the Wilderness. If players have completed the hard Wilderness Diary, they can choose their teleport location. Also, players with level Construction 80 can build their own obelisk that teleports them to the others, but this is a one-way teleport to the Wilderness.
+
+Other
+Players can use the Ardougne or Edgeville teleport lever to teleport to the Deserted Keep.
+
+Players with level Woodcutting 57 Woodcutting can create a waka canoe at any canoe station, which transports the player to either the Ferox Enclave or the pond in level 35 Wilderness, east of a Wilderness Obelisk.
+
+The magic door found within the Entrana Dungeon teleports the player to level 32 Wilderness, south of the chaos dwarves near Vet'ion's Rest.
+
+Teleports close to the ditch
+The following methods can be used to safely teleport relatively close to the ditch (or other kind of border), but not yet into Wilderness:
+
+Trollheim Teleport.png Trollheim Teleport (tablet) is relatively close to Agility 64 Agility shortcut to Wilderness (One-way shortcut)
+Mind Altar Teleport.png Mind Altar Teleport (tablet)
+Combat bracelet.pngCombat bracelet to Edgeville Monastery
+Amulet of glory.pngAmulet of glory to Edgeville
+Achievement diary cape.pngAchievement diary cape to Lesser Fanatic
+Paddewwa Teleport.png Paddewwa Teleport (tablet) for access to the Edgeville Dungeon
+Canoe to Edgeville
+Fairy ring dkr
+Agility 21 Agility shortcut from Grand Exchange accessible by Varrock Teleport after completion of medium tier of Varrock Diary or via Spirit Tree or minecart
+Lumberyard teleport.pngLumberyard teleport
+Balloon to Lumberyard
+Bosses
+The Wilderness is a host of many powerful bosses, who are able to drop rare items that can't be obtained anywhere else such as the malediction & odium ward, viggora's chainmace, thammaron's sceptre & craw's bow, the ring of the gods, tyrannical ring & treasonous ring and the voidwaker.
+
+Although the lair itself is not in the Wilderness, KBD is sill considered a Wilderness boss by designation, as players must enter the Wilderness to fight him.
+
+The "Big Three" bosses of the Wilderness are: Callisto, Vet'ion & Venenatis which are all located in multicombat areas.
+
+Their weaker variants: Artio, Cal'varion & Spindel are all located in singles-plus areas.
+
+Warning: All of these bosses are accessed through the Wilderness where other players can try to engage in player killing, it is advised to check items kept on death and only bring acceptable risk.
+
+Name	Image	Level	Hitpoints	Attack style	Location (combat type)	Notes
+Callisto	
+Callisto.png
+470	1,000	Crush, Magic, Ranged	Callisto's Den (multicombat)	A powerful bear that can deal massive AoE damage with his melee attacks, can deploy traps to limit the players' movement and a shockwave attack that can deal up to 50 damage if not protected against.
+Unique drops:
+Claws of callisto.pngClaws of callisto
+Tyrannical ring.pngTyrannical ring
+Voidwaker hilt.pngVoidwaker hilt
+Dragon pickaxe.pngDragon pickaxe
+Dragon 2h sword.pngDragon 2h sword
+Callisto cub.pngCallisto cub
+
+Vet'ion	
+Vet'ion.png
+454	255	Slash, Magic	Vet'ion's Rest (multicombat)	Uses attacks that can't be mitigated by prayer (but can be dodged) and when he reaches half health, it will summon two level 194 skeleton hellhounds to aid it, becoming invulnerable until they are killed. Also has a second form that is dealt with the same way as the first, except it summons level 231 Greater Skeleton Hellhounds instead.
+Unique drops:
+Skull of vet'ion.pngSkull of vet'ion
+Ring of the gods.pngRing of the gods
+Voidwaker blade.pngVoidwaker blade
+Dragon pickaxe.pngDragon pickaxe
+Dragon 2h sword.pngDragon 2h sword
+Vet'ion jr..pngVet'ion jr.
+
+Venenatis	
+Venenatis.png
+464	850	Stab, Magic, Ranged	Silk Chasm (multicombat)	Attacks with all three combat styles, but switches ranged and magic attacks after a few attacks and are only used at a distance. Can summon spiderlings that drain Prayer and launch a sticky web that drains run energy and prayer points.
+Unique drops:
+Fangs of venenatis.pngFangs of venenatis
+Treasonous ring.pngTreasonous ring
+Voidwaker gem.pngVoidwaker gem
+Dragon pickaxe.pngDragon pickaxe
+Dragon 2h sword.pngDragon 2h sword
+Venenatis spiderling.pngVenenatis spiderling
+
+Artio	
+Artio.png
+320	450	Crush, Magic, Ranged	Hunter's End (singles-plus)	A scaled-down, solo-able version of Callisto.
+Unique drops:
+Claws of callisto.pngClaws of callisto
+Tyrannical ring.pngTyrannical ring
+Voidwaker hilt.pngVoidwaker hilt
+Dragon pickaxe.pngDragon pickaxe
+Dragon 2h sword.pngDragon 2h sword
+Callisto cub.pngCallisto cub
+
+Calvar'ion	
+Calvar'ion.png
+264	150	Slash, Magic	Skeletal Tomb (singles-plus)	A scaled-down, solo-able version of Vet'ion.
+Unique drops:
+Skull of vet'ion.pngSkull of vet'ion
+Ring of the gods.pngRing of the gods
+Voidwaker blade.pngVoidwaker blade
+Dragon pickaxe.pngDragon pickaxe
+Dragon 2h sword.pngDragon 2h sword
+Vet'ion jr..pngVet'ion jr.
+
+Spindel	
+Spindel.png
+302	515	Stab, Magic, Ranged	Web Chasm (singles-plus)	A scaled-down, solo-able version of Venenatis.
+Unique drops:
+Fangs of venenatis.pngFangs of venenatis
+Treasonous ring.pngTreasonous ring
+Voidwaker gem.pngVoidwaker gem
+Dragon pickaxe.pngDragon pickaxe
+Dragon 2h sword.pngDragon 2h sword
+Venenatis spiderling.pngVenenatis spiderling
+
+Revenant maledictus	
+Revenant maledictus.png
+397	1250	Ranged, Magic	Revenant Caves (singles-plus)	Has a small chance to spawn when killing revenants, can hit up to 30 with powerful Magic and has a 5x5 area of effect attack.
+Unique drops:
+Amulet of avarice.pngAmulet of avarice
+Craw's bow (u).pngCraw's bow (u)
+Thammaron's sceptre (u).pngThammaron's sceptre (u)
+Viggora's chainmace (u).pngViggora's chainmace (u)
+Ancient crystal.pngAncient crystal
+Ancient statuette.pngAncient statuette
+
+Chaos Elemental	
+Chaos Elemental.png
+305	250	Magic, Ranged, Melee	West of the Rogues' Castle (multicombat)	It can hit up to 28 in all three combat styles.
+Unique drops:
+Dragon pickaxe.pngDragon pickaxe
+Dragon 2h sword.pngDragon 2h sword
+Dragon dagger.pngDragon dagger
+Pet chaos elemental.pngPet chaos elemental
+
+Chaos Fanatic	
+Chaos Fanatic.png
+202	225	Magic	West of the Lava Maze (single combat)	Has a special attack that must be avoided in order to prevent damage.
+Unique drops:
+Malediction shard 1.pngMalediction shard 1
+Odium shard 1.pngOdium shard 1
+Ancient staff.pngAncient staff
+Pet chaos elemental.pngPet chaos elemental
+
+Crazy archaeologist	
+Crazy archaeologist.png
+204	225	Crush, Ranged	Ruins south of The Forgotten Cemetery (single combat)	Has a multi-area special attack that must be avoided by running away.
+Unique drops:
+Malediction shard 2.pngMalediction shard 2
+Odium shard 2.pngOdium shard 2
+Rune crossbow.pngRune crossbow
+Fedora.pngFedora
+
+Scorpia	
+Scorpia.png
+225	200	Melee	Cavern beneath Scorpion Pit (multicombat)	Has a powerful poison that can damage up to 20.
+Unique drops:
+Malediction shard 3.pngMalediction shard 3
+Odium shard 3.pngOdium shard 3
+Dragon scimitar.pngDragon scimitar
+Scorpia's offspring.pngScorpia's offspring
+
+Skill training
+Throughout the Wilderness, there are many locations where players can train their skills. Many of these training methods are more profitable or faster than other options, though they all carry with them increased risk due to the threat of hostile player killers.
+
+Resource Area
+Main article: Resource Area
+The Resource Area, located very deep within the Wilderness, provides a wide assortment of resources, such as various amounts of ores, magic trees, yew trees, and two runite golems, which can be killed and then mined for runite ore. There are static dark crab fishing spots that can be fished with a lobster pot and dark fishing bait.
+
+Players must pay 7,500 coins to enter the Resource Area, with free entry as a reward for completing the elite Wilderness Diary. While it is relatively safe, player killers can also pay the fee and attack people training in the area.
+
+Prayer icon.png Prayer
+The Chaos Temple in level 38 Wilderness acts as a gilded altar with two burners lit, granting the same Prayer experience bonus when used in a player-owned house chapel. However, offering bones here gives a 50% chance for a bone offered to not be consumed, potentially saving lots of money if training prayer here in bulk. Outside, the Elder Chaos druid can unnote a player's bones for 50 coins per bone.
+
+Runecraft icon.png Runecraft
+Abyss
+Main article: Abyss
+Players can use the Abyss via Wilderness to access the various altars throughout RuneScape to craft runes; the Mage of Zamorak that teleports players to the Abyss lurks around level 5 Wilderness, just north of Edgeville. Many players will risk being killed to craft runes here as it is the fastest way available to train Runecraft for profit; normally, only runes above cosmic are crafted here as any rune below this is not considered worth the risk, and/or it takes less time to reach the appropriate altar by other means.
+
+Chaos Altar
+Main article: Chaos Altar
+The Chaos Altar is located approximately north of Edgeville in level 9 Wilderness, and as with most other runic altars, requires a chaos talisman or tiara to enter. Here players can craft chaos runes; however, entering conventionally requires players to traverse a multi-floor maze to reach the altar itself.
+
+Mining icon.png Mining
+Runite ore, which requires 85 Mining, is found in the Wilderness and is the only area where free players may mine it. Members can also mine here, although there are much safer locations such as the Heroes' Guild and Mourner Tunnels, which have some runite rocks. The Wilderness Rejuvenation update added several runite rocks at the Frozen Waste Plateau, making the Wilderness have the most runite rocks in-game.
+
+There are also other mines that can be visited as there is usually no one around. The Skeleton Mine is a mine containing a large amount of coal rocks, although skeletons wander around the mine. The Bandit Camp Mine contains a relatively large amount of iron, coal, mithril, and adamantite rocks. However, given their extreme proximity from a bank and the dangers of the Wilderness, these mines are rarely frequented.
+
+Fishing icon.png Fishing
+Some fishing spots are located throughout the Wilderness.
+
+In the Bandit Camp, players can use the net/bait fishing spot to fish for shrimps, anchovies, sardines and herring.
+In the Lava Maze, members can fish for Lava eels using an oily fishing rod and fishing bait.
+South of the Fountain of Rune and in the Wilderness Resource Area, players can fish dark crabs with dark fishing bait and a lobster pot. Dark crabs can be fished with 85 Fishing and heal 22 Hitpoints each once cooked, making it one of the best foods for players to use.
+Hunter icon.png Hunter
+There are two hunting areas in the Wilderness: one for hunting black chinchompas (requires 73 Hunter), and another for hunting black salamanders (requires 67 Hunter). While in the Wilderness, the player can place one extra trap above their maximum amount, thus making hunting quicker and more profitable. The black chinchompa hunting location is particularly dangerous, as the location is a popular player-killing spot.
+
+Woodcutting icon.png Woodcutting
+
+A player chops an Ent trunk after killing an Ent.
+Ents roam around the forests of the Wilderness, which if killed can be cut for noted logs. The type of logs is based on the Woodcutting level of the player and the Axe used.
+
+The Wilderness ents give double the amount of logs compared to the ents in the Woodcutting Guild, making it reasonably profitable at a high Woodcutting level.
+
+Thieving icon.png Thieving
+At 84 Thieving, players can loot the Chest (Rogues' Castle)s. There are three chests that are at the base of Rogues' Castle. The chest contains some decent rewards ranging from 1,000 minimum in value to approximately 40,000 gold, including various noted fish, runes, ores, and noted cut dragonstones. However, when a player loots from a chest, rogues within range will become aggressive, making this a dangerous but profitable method of money making.
+
+Agility icon.png Agility
+Main article: Wilderness Agility Course
+Requiring 52 Agility, there is the Wilderness Agility Course in the deep Wilderness. Although it can yield up to 40,000 experience per hour, it does not drop marks of grace or any other profit. It also requires risking stamina potions in levels 50–56 Wilderness to keep run energy available to maintain high experience rates.
+
+Slayer icon.png Slayer
+Main articles: Krystilia and Krystilia/Strategies
+Krystilia assigns an array of Slayer tasks that must be completed within the Wilderness. These monsters can range from combat level 1 to 470, assuming Wilderness bosses, and they all have a chance at dropping Larran's keys, Slayer's enchantments, ring of wealth scrolls and magic shortbow scrolls in addition to their regular drops. Also, whilst wearing a ring of wealth (i), players double their chances of receiving a clue scroll.
+
+Quests and Miniquests
+Family Crest
+The Family Crest quest requires you to kill Chronozon, who is located in the Wilderness part of Edgeville dungeon.
+
+Enter the abyss & Devious minds
+The miniquest Enter the Abyss and the quest Devious Minds require you to talk to the Mage of Zamorak who is located in low level Wilderness.
+
+Curse of the Empty Lord
+The Curse of the Empty Lord miniquest requires players to enter the Wilderness, though the exact location varies per player.
+
+Mage Arena
+Main article: Mage Arena
+This is where players with at least level 60 Magic can attempt Kolodion's challenge. Successful players receive the god cape and the god staff of their chosen God.
+
+Mage Arena II
+Main article: Mage Arena II
+After completing the Mage Arena, players with at least level 75 Magic and the ability to cast the god spells outside the Mage Arena can attempt Kolodion's second challenge. Successful players receive an imbued god cape of their chosen god.
+
+Other features
+Ferox Enclave
+Main article: Ferox Enclave
+
+Ferox Enclave
+The Ferox Enclave is a safe haven in the central Wilderness (level 13-16). Players can access one of the only two banks in the Wilderness here and use the Pool of refreshment to restore hitpoints, prayer points, run energy and stats. Ferox Enclave is also the location of the Clan Wars and Last Man Standing minigames. There are gates on all four sides of the settlement, which allows players in and out of the Enclave and there are numerous means of transportation to get there. Players who are teleblocked will be denied access to the Enclave.
+
+Wilderness Diary
+Main article: Wilderness Diary
+The Wilderness Diary can be completed by doing a set of tasks related to the Wilderness. Completing a tier gives a Wilderness sword and variety of useful rewards and benefits. For example, completion of all tasks grants noted dragon bone drops within the Wilderness and free access to the Resource Area.
+
+Team capes
+
+The cape merchant Simon, found near the Chaos Temple.
+Main article: Team cape
+A number of Cape merchants are scattered across the Wilderness, each of them offering five colourful capes for sale. When worn, other players with the same cape will appear as blue dots on the Minimap, rather than the usual white. The attack option for players with the same cape will also be moved to a right-click option, rather than the usual left-click default for the Wilderness. These capes are popular for clans or other groups of players in the Wilderness, both to identify their allies and avoid accidentally attacking each other.
+
+Shop selling
+Many players have items that are of very little value to merchants and skill specialists. The Bandit Duty Free, a general store in the Bandit Camp, buys items for close to High Alchemy prices because the "tax collectors do not visit his store."
+
+Clue scrolls
+Hard, elite and master clue scrolls often require players to traverse through the Wilderness to complete a step of the Treasure Trail. In addition, players can still be attacked by player killers while fighting off any of the wizards that attack when in the process of digging for a clue or a reward casket. It is recommended to only bring what is absolutely necessary to complete the clue and prevent the loss of the clue scroll. A clue box can be brought along to protect the clue scroll or casket in case of death within the Wilderness.
+
+Wearing the ring of wealth (i) doubles the chance of clue scroll drops in the Wilderness by all monsters.
+
+Development history
+The Wilderness was introduced into the game on 13 August 2001, and quickly became famous as the only place where players could engage in Player-versus-Player (PvP) combat, to gain all items that the defeated dropped.
+
+A ditch was added on 18 April 2007 to prevent players getting accidentally killed, tricked and lured into the Wilderness through tree luring.
+
+Currently, players passing the ditch are presented with a screen confirming that they actually want to enter the Wilderness. This can be toggled at the Doomsayer.
+
+Changes
+Date	Changes
+31 March 2016
+(update)	
+Players can now attack one another when both stood on the tile outside of the Wilderness resource area.
+
+10 September 2015
+(update)	
+All trail combat NPCs now cannot prevent a player from being attacked by a player inside a single combat zone of the Wilderness.
+All trail combat NPCs now also do not allow a player to be attacked by several players at once in a single combat zone.
+It is no longer possible to use the Jutting Wall entrance to the Wilderness GWD to avoid damage
+20 August 2015
+(update)	
+The welcome screen will no longer appear when logging in within the Wilderness.
+
+6 August 2015
+(update)	
+It is now possible to be attacked by a player in single combat Wilderness zones if you are fighting a Zamorak Mage when attempting to dig for your clue scroll.
+
+5 March 2015
+(update | poll)	
+All dragon bone drops in the Wilderness are now noted if you have completed the Wilderness Elite Diary.
+
+13 March 2014
+(update | poll)	
+The Wilderness Rejuvenation update has been released (patch notes).
+
+
+In Old School RuneScape, a Hybrid is someone who uses two different styles of combat, while a Tribrid is someone who uses all three styles of combat. For example, using melee with a ranging switch would be an example of Hybriding. Using melee with a range and magic switch would be an example of Tribridding.
+
+Creating this type of build is also called “bridding” which refers to either of these play styles.
+
+Ultimately these styles of combat are a requirement for PvP and much of PvM.
+
+As a result, many players will minimize the amount of switches they need, so they can spend more time in combat and less time changing gear.
+
+For example, Barrows Gloves compliment every style of combat, and are rarely switched out. While a Bando’s Chestplate would be swapped for an Armadyl Chestplate or Ancestral Top, since the Bando’s has negative range and negative magic bonuses.
+
+ 
+Where Would I Hybrid or Tribrid in PvM?
+In PvM you would generally only Hybrid/Tribrid for bosses, with a few exceptions such as Demonic Gorillas which require a melee and range switch to fight.
+
+A great place for new players to start learning the basics of Tribridding would be at the Dagannoth Kings.
+
+Dagannoth Kings require each style of the combat triangle be used against them. For example, Rex is weak to magic, Supreme is weak to melee, and Prime is weak to range.
+
+Since they can be killed by medium level accounts, they’re the perfect introduction to this style of combat – and they can be killed with only a few switches.
+
+A more complicated form of Tribridding would be found in raids, such as the Chambers of Xeric and Theatre of Blood.
+
+Within these raids you’ll be required to switch gear often for different forms of bosses, such as Olm and Nylos.
+
+Nylos present a challenge when it comes to Tribridding, as attacking the boss with the incorrect style will reflect the damage back onto you! Meaning you basically have to be an expert when it comes to switching attack styles mid-fight!
+
+ 
+OSRS Bridding Battle PKing 
+IMAGE SOURCE BY DON MARK
+ 
+Where Would I Hybrid or Tribrid in PvP?
+PvP fights are dominated by Hybrid/Tribrid fights, and it’s almost impossible to fight without using this combat style.
+
+But less experienced players may opt to use a single style with a second style as a knock out weapon.
+
+For example, a player might focus on you with range attacks, but use a melee weapon like Dragon Claws, or an Armadyl Godsword, solely to quickly end the fight and take you by surprise.
+
+More experienced Pk’ers will almost always Tribrid, as they’ll attempt to catch the other player off-guard in armor weak to a specific style.
+
+For example, a Pk’er might want to ensure their magic attack hits on their target while the target is in melee gear with the wrong protection prayer up.
+
+This would make sure the highest possible damage is dealt.
+
+Tribridding in PvP is generally very risky, because a large amount of good armour and weapons are usually at risk.
+
+I would only recommend experienced Pk’ers to experiment with this in PvP worlds. Practice hybrid fights first, and eventually you’ll be able to Tribrid with the best Pk’ers in OSRS.
+
+ 
+OSRS Tribrid Battle Screenshot 
+IMAGE SOURCE BY DITTERBITTER
+ 
+How Do You Learn To Hybrid/Tribrid?
+Learning this style of combat is not easy. But luckily, there are a few simple tips and tricks to get you started!
+
+The first thing I would recommend is getting a hold of Void armour, as Void only requires a helmet switch to swap between combat styles, while still being relatively powerful.
+
+Void has lackluster defensive stats. But the attack power of Void is fairly good, and the set is free to obtain from the Pest Control Minigame.
+
+This armour is used in PvP and PvM alike, and is often used by learners in Raids and PvP situations alike.
+
+It’s also advisable to first learn to hybrid in PvM, as the risk is much lower.
+
+In PvP, many of the players are experienced already, and you won’t be able to keep up if you’re just starting to practice.
+
+Yet bosses like Zulrah only require range and magic, and can be great to learn on since you’ll need to time not only your gear switches, but also your prayer switches too.
+
+This is very similar to PvP scenarios and offers a great introduction.
+
+Another easy boss to learn on would be Grotesque Guardians, as they’re designed for mid-level players and require melee and range to take down.
+
+They also don’t hit too hard, and have some basic early game mechanics that can be handy aids to teach new players how to switch styles quickly.
+
+Master the above, and you should be ready for tribridding in PvP (and high level PvM) in no time.
+
+
+Player Killing (commonly known as PKing, player vs. player, or PvP), is the act of two or more players engaging in combat against each other. Player killing differs from other forms of combat in that players do not fight against monsters whose actions are defined by RuneScape's game engine. There are various places throughout Old School RuneScape that players can participate in PvP activities such as Castle Wars, Soul Wars, Bounty Hunter, and the TzHaar Fight Pit.
+
+Currently, players can also participate in player killing in dedicated "PvP worlds," where players can attack other players in most places around Gielinor, with the exception of designated safe areas and banks. There is only one dedicated PvP world that does not change with the PvP world rota, this is World 392. Other worlds can be found on the server list.
+
+PvP is a popular activity throughout Old School RuneScape. Some accounts are even designed solely for PvP, which are colloquially referred to as "pures", who limit or entirely avoid training one or more combat skills, especially Defence, so their offensive stats will be much higher than their combat level suggests. Because of their history of success in the Wilderness, and the overall greater amount of experience pures must gain in their individual skills of choice, pures are more effective at player killing than standard accounts of the same level.
+
+Player killing within the Wilderness and PvP worlds causes a 57 second timer to be set off, during which only the killer can loot the victim's gear. After the expiry of this timer, anyone can loot the victim's loot.
+
+
+Contents
+Account Builds
+One-defence pure
+Berserker
+Medium level
+Main
+Free-to-play builds
+Other
+Historical
+Activity Hotspots
+PvP worlds
+The Wilderness
+Official worlds
+Minigames
+TzHaar Fight Pit
+Last Man Standing
+Bounty Hunter
+Clan Wars
+Castle Wars
+Soul Wars
+Emir's Arena
+Gameplay
+Mechanics
+History
+Transcript
+Changes
+See also
+Account Builds
+One-defence pure
+Main article: One-defence pure
+Berserker
+Main article: Berserker pure
+Medium level
+Main article: Medium-level build
+Main
+Main article: Main
+Free-to-play builds
+Main article: Free-to-play account builds
+Other
+Obsidian mauler, 13 Defence pure, Initiate pure, Proselyte pure, Void pure, etc.
+
+Historical
+Activity Hotspots
+PvP worlds
+Main article: PvP World
+Common PvP spots
+Location	Comment	Popularity	
+Grand Exchange	Extremely varied. Pure, Dharok, zerker, Void, rushers as well as mains.	High	Grand Exchange.png
+Lumbridge	Varied. Pure, zerker, Void and mains.	High	Lumbridge.png
+Edgeville	Common spot for "No honour" PKing, both pure and main.	Moderate	Edgeville.png
+Rimmington house portal	Varied. Pure, Dharok and a lot of rushers.	Moderate	Rimmington.png
+Camelot	Pure and Dharok.	Moderate	Camelot.png
+Castle Wars lobby	Common spot for "No honour" PKing, both pure and main.	Low	Castle Wars.png
+The Wilderness
+Main article: Wilderness
+The Wilderness is a large area of land in which any player who enters it is able to attack other players. It is a dangerous place as players can die and lose their stuff except for three items or four if the player had Protect Item on before dying. If the player happened to be skulled from attacking another player and said player dies, they will lose all of their items, and only one item is kept upon death if Protect Item was activated. "Skull tricking" is therefore a popular method player killers use to be able to gain more loot.
+
+Common PvP spots
+Location	Comment	Popularity	
+Revenant Caves	Players mainly kill revenants as they are a good money making method with little risk and requirements. Player killers lurk around the revenant area to kill any unfortunate player they find.	High	Revenant Caves player killing.png
+Wilderness bosses	Players kill the Wilderness bosses as they provide a lot of money with minimal risk and requirements. Player killers lurk around their domains to kill any unfortunate hunter they find.	High	Fighting Callisto.png
+Lava Dragon Isle	Located in level 36–42 Wilderness, it is a multi-combat zone and a popular spot to hunt down and ambush players killing the lava dragons, which is good money.	High	Lava Dragon Isle.png
+Black chinchompas	Located in level 32 Wilderness, it is a single-combat area used to kill unfortunate black chinchompa hunters.	High	Black chinchompa centre spawns.png
+Green dragons	players come here to kill other players/bots that are killing green dragons.	Moderate	Cryptic clue - kill green dragon.png
+Resource Area	East of the Deserted Keep in circa level 52–54 Wilderness. This is single combat that serves as a hotbed for preying on players collecting resources here.	Moderate	Resource Area.png
+Fountain of Rune	Located in level 47 Wilderness, this has become a hotbed for player killers since the area is multi-combat, and they can kill players who are charging glories.	Moderate	Fountain of rune.png
+Rogues' Castle	Located in level 52–56 Wilderness. A very popular spot for player killers since the area is multi-combat, and they can prey on players looting the chests.	Low	Rogues' Castle.png
+Edgeville	Directly above the Edgeville bank, normally most populated from levels 1-6. This zone is single-way combat	Low	Bounty Hunter.png
+Varrock	Directly north of Varrock east bank, normally most populated from levels 1–10. This zone is almost entirely a multi-combat area.	Low	Varrock Ditch.png
+Hill giants	Directly north-northeast of Varrock Wilderness, approximately levels 18–21. Mostly multi-combat area. Popular for clan fights or teams to sit and ambush people who have ventured out too far into the Wilderness.	Low	Hill giants wilderness.png
+Wilderness God Wars Dungeon	Located within a cave east of the Forgotten Cemetery in the level 28 Wilderness, the whole area is multi-combat. A popular place for clans to lurk and ambush players killing aviansies or collecting ecumenical keys.	Low	Wilderness God Wars Dungeon.png
+46 Wilderness Mine	Above the Lava Maze in level 46 Wilderness houses two runite rocks that are popular to high-level miners. Player killers often make their rounds here, and while the area itself is single combat, the surrounding area to the east and west is multi-way.	Low	Cryptic clue - dig lava maze dungeon.png
+Official worlds
+The following official worlds are assigned to Wilderness PKing:
+
+World	Location	Members	Activity
+308	United Kingdom flag.png United Kingdom	Free-to-play	Wilderness PK - Free
+316	United Kingdom flag.png United Kingdom	Free-to-play	Wilderness PK - Free
+369	United States (east) flag.png United States (east)	Members	Wilderness PK - Members
+Minigames
+TzHaar Fight Pit
+Main article: TzHaar Fight Pit
+The TzHaar Fight Pit is a safe minigame in which players fight against each other in a free-for-all arena. The winner is crowned champion as long as they are both still in the arena and have not been killed yet.
+
+Last Man Standing
+Main article: Last Man Standing
+Last Man Standing, commonly referred to as LMS, is a player-versus-player battle royale style minigame in which the player, along with 3-23 others, are transported onto an island where they must fight for survival, killing each other and looting any items they can to become the titular last man standing.
+
+Bounty Hunter
+Main article: Bounty Hunter
+Bounty Hunter was originally released by Jagex December 2007 as part of the highly controversial update that saw the removal of PvP from the Wilderness, its first incarnation was confined to a single crater and was intended as a substitute for Wilderness player-killing. Although the August 2007 archive of RuneScape that Old School's servers were based on predated the Bounty Hunter update, both players and the development team expressed interest in bringing it back in a revised form. It was subsequently released in 2014 as a single-world activity that exists separately from and alongside traditional Wilderness PvP.
+
+Clan Wars
+Main article: Clan Wars
+Clan Wars allows members of two opposing Clan Chats to engage in player-versus-player combat against one another.
+
+Castle Wars
+Main article: Castle Wars
+Castle Wars is a minigame released by Jagex in December 2004. It is similar to Capture the Flag, but with a RuneScape twist. The official worlds for Castle Wars are 334 and 354 for P2P, and 383 for F2P. On July 20 2017, it was made Free-to-play, and can be accessed via a portal in the Ferox Enclave.
+
+Soul Wars
+Main article: Soul Wars
+Soul Wars is a minigame in which two opposing teams compete against each other to gather soul fragments and offer them to the Soul Obelisk in order to weaken, and ultimately defeat, each other's Avatars through combat.
+
+Emir's Arena
+Main article: Emir's Arena
+The Emir's Arena, also known as the PvP Arena, is a minigame that replaced the Duel Arena.
+
+The minigame gives players an opportunity to fight each other in a controlled environment, where matches take place on an alternative save game world against players of a similar skill level. Players will be able to register their interest in finding a fight; while a match is being prepared, players can continue with whatever they were doing prior.
+
+Gameplay
+Mechanics
+Main article: /Mechanics
+History
+
+A clan war in the Wilderness with several PKers fighting.
+Originally, after the release of RuneScape Classic, players could select whether or not to play as player killer characters. Players could switch from player-killer mode to non-player-killer mode (in which the character could not attack or be attacked by other players) three times, after which they remained at their chosen setting "forever".
+
+PvP combat could take place at most locations in the RuneScape world. The rules of combat were the same as in modern RuneScape Classic Wilderness. Lumbridge was designated as a neutral area where players could not attack each other. This was done to prevent "spawn camping", the practice of immediately killing a player as soon as they respawned after a death. However, it was possible for a character to be attacked in the upper levels of Lumbridge Castle. In addition to this restriction, NPC Guards and White Knights patrolled the cities of Varrock and Falador, breaking up PvP battles by attacking the aggressor. These guard units were limited in number, however, and if all the units in a city were already in combat, PvP combat could go on freely.
+
+At this time, the Bank of Runescape was limited to Varrock and Falador and could only store coins. As a result, players would have to carry their valuables with them, making PvP combat much riskier.
+
+The player-killer/non-player-killer modes were, however, removed from the game on 13 August 2001 when the Wilderness was added. Later, additional areas where PvP combat was allowed were added.
+
+Transcript
+This article has an associated transcript page.
+Click here for the transcript.
+Changes
+Date	Changes
+2 April 2020
+(update)	
+Brand-new players cannot log in to PvP worlds. These restrictions can be removed by logging over 20 hours of game time, earning 10 quest points, and reaching 100 total level. Alternatively, you can purchase membership to bypass these requirements.
+
+27 February 2020
+(update)	
+To counter Bot accounts, Players in PvP Worlds can no longer use the Fountains in Lumbridge as water source.
+
+22 January 2015
+(update)	
+Only players that have not logged out since items were dropped on the ground can see them. Also, only players that were logged in at the time the items were dropped will be able to see them.
+
+6 November 2014
+(update)	
+In Combat, your opponent's attack option should now always appear on top.
+
+25 September 2014
+(update)	
+More PvP kill taunts have been added and shall appear as normal when you successfully kill another player.
+
+4 September 2014
+(update)	
+The attack options for players will no longer appear when in a safe zone in PvP Worlds.
+
+8 May 2014
+(update)	
+Your opponent should now always appear on top during PvP.
