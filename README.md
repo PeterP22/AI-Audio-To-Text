@@ -1,24 +1,36 @@
-# AI Speech to Text Using OpenAI Whisper
+# Interactive Voice-Enabled Text Interaction Project
 
-This project utilizes OpenAI's Whisper model to transcribe spoken words into text. It captures audio from your microphone for a set duration, processes it through the Whisper model, and outputs the transcribed text.
+This project demonstrates an innovative approach to interacting with text documents using voice commands and receiving responses in audio format, powered by AI. It integrates a range of technologies and libraries to create a seamless user experience. Below is an overview of the tech stack, languages, and libraries utilized across two main components of the project.
 
-## Getting Started
+## Project Components
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+The project is divided into two main notebooks:
 
-### Prerequisites
+1. **Chroma Notebook**: Focuses on processing the text file, interacting with it through OpenAI, and receiving audio responses.
+2. **Local RAG Notebook**: Enhances the interaction by leveraging local models for generating responses and converting them into audio.
 
-Before you begin, ensure you have the following installed:
-- Python 3.6 or later
-- Pip (Python package manager)
+## Technologies and Libraries Used
 
-Step 1. Install dependencies
-```bash
-pip install git+https://github.com/openai/whisper.git
-pip install sounddevice numpy
-```
+### Languages
 
-Step 2. Run the script 
+- **Python**: The primary programming language used for both notebooks.
 
-Step 3. After the duration has passed and you have communicated correctly, check the terminal for the output string based on what you verbally said. 
+### Chroma Notebook Libraries
 
+- **OpenAI Libraries**: `openai`, `ChatOpenAI`, `OpenAIEmbeddings` for interfacing with OpenAI's API for processing and generating text responses.
+- **Audio Processing**: `pydub`, `gTTS` (Google Text-to-Speech), `elevenlabs` for audio file manipulation and generating speech from text.
+- **Utility and Data Management**: `os`, `chromadb` for file and database operations.
+- **Text Processing**: `RecursiveCharacterTextSplitter`, `unstructured` for handling and structuring text data.
+- **LangChain**: `langchain` for leveraging language models in a chain of operations.
+- **Miscellaneous**: `tiktoken`, `DirectoryLoader`, `Chroma`, `Generate`, `load_qa_chain`, `set_api_key`, `Audio,` for various other functionalities including setting up the environment, loading data, and initializing models.
+
+### Local RAG Notebook Libraries
+
+- **Audio and Voice Processing**: `whisper` for voice recognition, `sounddevice` for capturing audio input, `gradio` for creating a web interface for the application.
+- **Text and Data Processing**: `RecursiveCharacterTextSplitter`, `FAISS` (Facebook AI Similarity Search) for efficient similarity search in large datasets.
+- **OpenAI Libraries**: Similar to the Chroma notebook, `OpenAIEmbeddings`, `langchain`, and direct usage of `OpenAI`'s API.
+- **Utility and Management**: `os`, `time`, `DirectoryLoader`, along with the use of a git repository (`git+https://github.com/openai/whisper.git`) for installing the Whisper library.
+
+## Conclusion
+
+This project showcases the power of integrating various AI and machine learning libraries to create a voice-enabled text interaction system. By leveraging OpenAI's API, audio processing libraries, and custom data management solutions, it provides a unique way to interact with text documents audibly.
