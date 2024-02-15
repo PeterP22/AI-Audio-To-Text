@@ -2,6 +2,21 @@
 
 This project demonstrates an innovative approach to interacting with text documents using voice commands and receiving responses in audio format, powered by AI. It integrates a range of technologies and libraries to create a seamless user experience. Below is an overview of the tech stack, languages, and libraries utilized across two main components of the project.
 
+### Sample Audio
+
+Listen to the sample output:
+
+<audio controls>
+  <source src="https://github.com/PeterP22/LLM-RAG-DOC-CHATTER/raw/main/foxy.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
+### Output Screenshot
+
+![Output Screenshot](https://github.com/PeterP22/LLM-RAG-DOC-CHATTER/raw/main/output%20screenshot.png)
+
+
 ## Project Components
 
 The project is divided into two main notebooks:
