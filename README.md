@@ -7,14 +7,9 @@ This project demonstrates an innovative approach to interacting with text docume
 Listen to the sample output:
 
 <audio controls>
-  <source src="https://github.com/PeterP22/LLM-RAG-DOC-CHATTER/raw/main/foxy.mp3" type="audio/mpeg">
+  <source src="https://github.com/PeterP22/LLM-RAG-DOC-CHATTER/raw/main/foxy.mp3">
   Your browser does not support the audio element.
 </audio>
-
-### Sample Audio
-
-[Listen to the sample output](https://github.com/PeterP22/LLM-RAG-DOC-CHATTER/raw/main/foxy.mp3)
-
 
 
 ### Output Screenshot
